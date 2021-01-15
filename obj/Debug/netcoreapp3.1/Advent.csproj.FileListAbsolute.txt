@@ -1,0 +1,13 @@
+C:\Users\Stijepo\source\repos\Advent\Advent\bin\Debug\netcoreapp3.1\Advent.exe
+C:\Users\Stijepo\source\repos\Advent\Advent\bin\Debug\netcoreapp3.1\Advent.deps.json
+C:\Users\Stijepo\source\repos\Advent\Advent\bin\Debug\netcoreapp3.1\Advent.runtimeconfig.json
+C:\Users\Stijepo\source\repos\Advent\Advent\bin\Debug\netcoreapp3.1\Advent.runtimeconfig.dev.json
+C:\Users\Stijepo\source\repos\Advent\Advent\bin\Debug\netcoreapp3.1\Advent.dll
+C:\Users\Stijepo\source\repos\Advent\Advent\bin\Debug\netcoreapp3.1\Advent.pdb
+C:\Users\Stijepo\source\repos\Advent\Advent\obj\Debug\netcoreapp3.1\Advent.csprojAssemblyReference.cache
+C:\Users\Stijepo\source\repos\Advent\Advent\obj\Debug\netcoreapp3.1\Advent.AssemblyInfoInputs.cache
+C:\Users\Stijepo\source\repos\Advent\Advent\obj\Debug\netcoreapp3.1\Advent.AssemblyInfo.cs
+C:\Users\Stijepo\source\repos\Advent\Advent\obj\Debug\netcoreapp3.1\Advent.csproj.CoreCompileInputs.cache
+C:\Users\Stijepo\source\repos\Advent\Advent\obj\Debug\netcoreapp3.1\Advent.dll
+C:\Users\Stijepo\source\repos\Advent\Advent\obj\Debug\netcoreapp3.1\Advent.pdb
+C:\Users\Stijepo\source\repos\Advent\Advent\obj\Debug\netcoreapp3.1\Advent.genruntimeconfig.cache
